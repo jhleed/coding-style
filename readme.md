@@ -1,6 +1,6 @@
 # My OpenSource Rule
 
-> rule for open source i write
+> Rule for open source i write
 
 ## 1. using english
 
