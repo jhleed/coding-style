@@ -4,9 +4,8 @@
 
 ## 1. Using english
 
-Using english every time, every case
-it's helpful that i use english to commicate global people
-and making habit
+Using english every time, every case.
+it's helpful that i use english to commicate global people and making habit
 
 ## 2. Always fill out readme.md in a format
 
