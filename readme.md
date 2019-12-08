@@ -1,17 +1,6 @@
-# My OpenSource Rule
+# coding-style
 
-> Rule for open source i write
+제가 사용하는 프로그래밍과 관련된 모든 가이드라인을 정의합니다.
 
-## 1. Using english
-
-Using english every time, every case.
-it's helpful that i use english to commicate global people and making habit
-
-## 2. Always fill out readme.md in a format
-
-Basic rule for every opensource
-if has no readme.md it doesn't look's like managing well
-
-## 3. Git commit message naming rule
-
-Refer to this [document](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+1. 코딩 스타일
+2. 오픈소스 스타일
